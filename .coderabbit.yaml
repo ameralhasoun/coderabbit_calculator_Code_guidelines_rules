@@ -4,4 +4,4 @@ knowledge_base:
   code_guidelines:
     enabled: true
     filePatterns:
-      - "**/.basic_coding_standards.md"
+      - "**/basic_coding_standards.md"
