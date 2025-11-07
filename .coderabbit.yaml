@@ -1,7 +1,0 @@
-# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
-knowledge_base:
-  opt_out: false
-  code_guidelines:
-    enabled: true
-    filePatterns:
-      - "**/.basic_coding_standards.md"
