@@ -29,3 +29,4 @@ Confirm that code is clean, readable, and properly formatted.
 Detect and report duplicated or repeated logic across classes, methods, or files.  
 - Success: Shared logic is extracted into reusable methods or services.  
 - Failure: Similar or identical code blocks appear in multiple places without reuse.
+
